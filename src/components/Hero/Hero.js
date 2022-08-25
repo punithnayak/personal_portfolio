@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
           I write Javascript and react to build modern websites
         </SectionText>
-        <a href="https://docs.google.com/document/d/1MSNW_Wes8rMqkcZMFWOXSAw7aFkB-VR0awUBKCCJn80/edit?usp=sharing">
+        <a href="https://drive.google.com/file/d/19AUpQmss1iAsfOg6CE_qpOwh2Tt54VpB/view">
           {" "}
           <Button>Resume</Button>
         </a>
