@@ -6,7 +6,7 @@ export const projects = [
     image: "/images/1.png",
     tags: ["Material UI", "React"],
     source: "https://62f3ee9c3185fb005d073b01--comfy-cat-b0b465.netlify.app/",
-    visit: "https://github.com/punithnayak/Movie_suggestion_app",
+    visit: "https://movie-app-punith.netlify.app/",
     id: 0,
   },
   {
@@ -16,7 +16,7 @@ export const projects = [
     image: "/images/2.png",
     tags: ["React typescript", "Codemirror-2.js"],
     source:
-      "https://62f3e65ae5ab0e1398438c55--guileless-pothos-1d243e.netlify.app/",
+      "https://online-ide-punith.netlify.app/",
     visit: "https://github.com/punithnayak/Online_IDE",
     id: 1,
   },
@@ -29,7 +29,7 @@ export const projects = [
     tags: ["React", "Material Ui", "Chart.js"],
     source:
       "https://62f48e03324ac26f37b7d4f3--brilliant-sprite-b15ceb.netlify.app/",
-    visit: "https://github.com/punithnayak/Crypto_Tracker",
+    visit: "https://crypto-currency-tracker-punith.netlify.app/",
     id: 3,
   },
 ];
