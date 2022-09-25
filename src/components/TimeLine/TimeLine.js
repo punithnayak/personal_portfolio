@@ -46,10 +46,9 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am a 2nd year engineering graduate who has worked in frontend web
-        development for 2 years. I have worked on dozens of student projects in
-        my college built a landing page for the project won a hackathon
-        organized by a start-up called esamudaay and much more.I have mastered
+        I am a 2nd year engineering undergraduate who has worked in frontend web
+        development for 1 years. I am currently working with Dronaid Manipal a student project and won a hackathon
+        organized by a start-up called esamudaay and much more.I am well-versed with 
         Reactjs Javascript HTML CSS etc.
       </SectionText>
       
