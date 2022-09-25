@@ -6,7 +6,7 @@ export const projects = [
     image: "/images/1.png",
     tags: ["Material UI", "React"],
     source: "https://movie-app-punith.netlify.app/",
-    visit: "",
+    visit: "https://github.com/punithnayak/Movie_suggestion_app",
     id: 0,
   },
   {
@@ -29,7 +29,7 @@ export const projects = [
     tags: ["React", "Material Ui", "Chart.js"],
     source:
       "https://crypto-currency-tracker-punith.netlify.app/",
-    visit: "",
+    visit: "https://github.com/punithnayak/Crypto_Tracker",
     id: 3,
   },
 ];
