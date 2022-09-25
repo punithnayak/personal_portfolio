@@ -15,9 +15,8 @@ export const projects = [
       "Usint React-Typescript I build this online ide app using Codemirror2.js (Npm package) and used CSS to design the layout of the app.",
     image: "/images/2.png",
     tags: ["React typescript", "Codemirror-2.js"],
-    source:
-      "https://online-ide-punith.netlify.app/",
-    visit: "https://github.com/punithnayak/Online_IDE",
+    source:"https://online-ide-punith.netlify.app/",
+    visit:"https://github.com/punithnayak/Online_IDE",
     id: 1,
   },
 
@@ -27,9 +26,8 @@ export const projects = [
       "I build this amazing crypto tracker app for investor to study the market using React.js and material Ui .Used axios to fetch the datat from backend and use Context api to manage the data from one component to other components",
     image: "/images/3.png",
     tags: ["React", "Material Ui", "Chart.js"],
-    source:
-      "https://crypto-currency-tracker-punith.netlify.app/",
-    visit: "https://github.com/punithnayak/Crypto_Tracker",
+    source:"https://crypto-currency-tracker-punith.netlify.app/",
+    visit:"https://github.com/punithnayak/Crypto_Tracker",
     id: 3,
   },
 ];
