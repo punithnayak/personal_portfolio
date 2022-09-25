@@ -5,8 +5,8 @@ export const projects = [
       "Using React and Material Ui I build this Movie app.I usec axios to fetch the Api from backend and Context api to manage the state of the app.",
     image: "/images/1.png",
     tags: ["Material UI", "React"],
-    source: "https://62f3ee9c3185fb005d073b01--comfy-cat-b0b465.netlify.app/",
-    visit: "https://movie-app-punith.netlify.app/",
+    source: "https://movie-app-punith.netlify.app/",
+    visit: "",
     id: 0,
   },
   {
@@ -28,8 +28,8 @@ export const projects = [
     image: "/images/3.png",
     tags: ["React", "Material Ui", "Chart.js"],
     source:
-      "https://62f48e03324ac26f37b7d4f3--brilliant-sprite-b15ceb.netlify.app/",
-    visit: "https://crypto-currency-tracker-punith.netlify.app/",
+      "https://crypto-currency-tracker-punith.netlify.app/",
+    visit: "",
     id: 3,
   },
 ];
